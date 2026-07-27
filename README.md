@@ -1,78 +1,152 @@
-# Hi, I'm Sam (@sam-thetutor)
+<div align="center">
 
-**Full-stack blockchain engineer** building on **Internet Computer**, **Celo / GoodDollar**, **Bitcoin**, and **AI agents** — from Motoko canisters and ICRC ledgers to TypeScript apps, MCP tools, and on-chain identity.
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=0:29ABE2,50:522785,100:0d1117&height=180&section=header&text=Sam%20TheTutor&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20blockchain%20engineer&descSize=18&descAlignY=58&descAlign=50" width="100%" alt="header"/>
 
-I ship production-style systems: treasury logic, token launchers, DEX integrations, Telegram bots, and agent runtimes that talk to real chains.
+<!-- Typing -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Internet+Computer+%E2%80%A2+Motoko+%E2%80%A2+ICRC;GoodDollar+%26+Celo+%E2%80%A2+AI+agent+identity;Bitcoin+%E2%80%A2+Mezo+%E2%80%A2+Stacks+%2F+Clarity;MCP+%E2%80%A2+Eliza+%E2%80%A2+on-chain+treasury+%26+DeFi" alt="typing intro" />
+</a>
 
----
+<br/>
 
-## What I work on
+<!-- Profile meta -->
+<img src="https://komarev.com/ghpvc/?username=sam-thetutor&label=Profile%20views&color=29ABE2&style=for-the-badge" alt="profile views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/sam-thetutor?style=for-the-badge&logo=github&label=Followers&color=522785" alt="followers"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Public%20repos-157+-29ABE2?style=for-the-badge&logo=github" alt="repos"/>
 
-| Area | What I build |
-|------|----------------|
-| **Internet Computer** | Motoko backends, ICRC tokens, canister upgrades, treasury & game economics, Eliza **ICP plugin** |
-| **GoodDollar & Celo** | Proof-of-human for agents (ERC-8004), skill marketplaces, UBI reminder bots |
-| **AI agents** | MCP servers, Eliza plugins, on-chain reputation & access control (Casper **AgentPass**) |
-| **Bitcoin & L2s** | Non-custodial inheritance (**Mezo**), Clarity contracts (**Stacks**), payment flows |
-| **Web3 apps** | TypeScript/React frontends, prediction markets, staking, NFT minters, hackathon MVPs |
+<br/><br/>
 
----
+**I build production-grade web3:** Motoko canisters, ICRC ledgers, agent SDKs, MCP servers, Telegram bots, and full-stack TypeScript apps that ship on mainnet — not slide decks.
 
-## Featured projects
+<br/>
 
-| Project | Description |
-|---------|-------------|
-| [**gooddollar-agent-id**](https://github.com/sam-thetutor/gooddollar-agent-id) | Passport-free proof-of-human for AI agents — GoodDollar-rooted ERC-8004 provider on Celo (SDK, MCP, web app) |
-| [**goodagent-skills**](https://github.com/sam-thetutor/goodagent-skills) | Skill marketplace for AI agents in the GoodDollar ecosystem |
-| [**agentpass**](https://github.com/sam-thetutor/agentpass) | On-chain trust layer for AI agents on Casper — ZK-verified owners, reputation, contract gates |
-| [**plugin-icp**](https://github.com/sam-thetutor/plugin-icp) | Internet Computer plugin for Eliza OS — meme tokens, canisters, wallet management |
-| [**mezolock**](https://github.com/sam-thetutor/mezolock) | Non-custodial Bitcoin inheritance on Mezo (hackathon) |
-| [**goodremind-bot**](https://github.com/sam-thetutor/goodremind-bot) | Telegram bot for daily GoodDollar claim reminders on Celo |
-| [**heirlock**](https://github.com/sam-thetutor/heirlock) / [**herlock**](https://github.com/sam-thetutor/herlock) | Motoko canister work around inheritance & time-locked flows on ICP |
-| [**satsFlow**](https://github.com/sam-thetutor/satsFlow) | Bitcoin / Stacks-oriented flows in Clarity |
-| [**Meme-coin**](https://github.com/sam-thetutor/Meme-coin) | Early Motoko token & meme economics on ICP |
-| [**ICRC-Token-Launcher**](https://github.com/sam-thetutor/ICRC-Token-Launcher) | Tooling to launch ICRC tokens on the Internet Computer |
+<a href="https://github.com/sam-thetutor?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_repos-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="repos"/>
+</a>
+&nbsp;
+<a href="https://github.com/sam-thetutor">
+  <img src="https://img.shields.io/badge/@sam--thetutor-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+</a>
 
-*Plus 150+ public repos — experiments, hackathons, bots, and production prototypes across Stellar, CrossFi, Cartesi, and more.*
+</div>
 
 ---
 
-## Tech stack
+### 🧭 Focus
 
-**Languages**
+```text
+🌐  ICP · Celo · Bitcoin · Casper · Stellar · Stacks
+🤖  AI agents · ERC-8004 · MCP · Eliza · ZK trust layers
+⚙️  Treasury · token launchers · DEX routing · ICPSwap · bots
+```
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Motoko](https://img.shields.io/badge/Motoko-522785?style=flat)
-![Clarity](https://img.shields.io/badge/Clarity-5546FF?style=flat)
+<br/>
 
-**Platforms & tools**
+<div align="center">
 
-![Internet Computer](https://img.shields.io/badge/Internet_Computer-29ABE2?style=flat)
-![Celo](https://img.shields.io/badge/Celo-FBF6E7?style=flat)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+### 🛠 Stack
 
-**Agent & integration**
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,nextjs,solidity,python,docker,git,linux,bash,postgres&perline=12&theme=dark" alt="skills"/>
 
-- **Eliza OS** plugins · **MCP** servers · Telegram bots · ICPSwap / ledger integrations · ZK & on-chain identity patterns
+<br/>
 
----
+<img src="https://img.shields.io/badge/Motoko-522785?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHRleHQgeD0iMCIgeT0iMTQiIGZpbGw9IndoaXRlIj5NPC90ZXh0Pjwvc3ZnPg==" alt="motoko"/>
+<img src="https://img.shields.io/badge/Clarity-5546FF?style=for-the-badge" alt="clarity"/>
+<img src="https://img.shields.io/badge/Internet_Computer-29ABE2?style=for-the-badge" alt="icp"/>
+<img src="https://img.shields.io/badge/Celo-35D07F?style=for-the-badge&logo=celo&logoColor=white" alt="celo"/>
+<img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="btc"/>
 
-## GitHub snapshot
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-thetutor&show_icons=true&theme=default&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sam-thetutor&layout=compact&hide_border=true)
+</div>
 
 ---
 
-## Connect
+### ⭐ Flagship work
 
-- **Profile:** [github.com/sam-thetutor](https://github.com/sam-thetutor)
-- **Open to:** collaborations on ICP canisters, Celo/GoodDollar agent infra, Bitcoin custody/inheritance UX, and agent × chain tooling
+<div align="center">
+
+<a href="https://github.com/sam-thetutor/gooddollar-agent-id">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sam-thetutor&repo=gooddollar-agent-id&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="gooddollar-agent-id" />
+</a>
+<a href="https://github.com/sam-thetutor/goodagent-skills">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sam-thetutor&repo=goodagent-skills&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="goodagent-skills" />
+</a>
+<a href="https://github.com/sam-thetutor/agentpass">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sam-thetutor&repo=agentpass&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="agentpass" />
+</a>
+<a href="https://github.com/sam-thetutor/plugin-icp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sam-thetutor&repo=plugin-icp&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="plugin-icp" />
+</a>
+<a href="https://github.com/sam-thetutor/mezolock">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sam-thetutor&repo=mezolock&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="mezolock" />
+</a>
+<a href="https://github.com/sam-thetutor/goodremind-bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sam-thetutor&repo=goodremind-bot&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="goodremind-bot" />
+</a>
+
+</div>
+
+<br/>
+
+<details>
+<summary><b>More repos worth a look</b></summary>
+
+<br/>
+
+| | |
+|:---:|:---|
+| 🔐 | [**heirlock**](https://github.com/sam-thetutor/heirlock) · [**herlock**](https://github.com/sam-thetutor/herlock) — Motoko inheritance & time-lock flows on ICP |
+| ₿ | [**satsFlow**](https://github.com/sam-thetutor/satsFlow) — Clarity / Stacks Bitcoin flows |
+| 🪙 | [**ICRC-Token-Launcher**](https://github.com/sam-thetutor/ICRC-Token-Launcher) · [**Meme-coin**](https://github.com/sam-thetutor/Meme-coin) — ICP token tooling & economics |
+| 🧪 | **150+** public repos — hackathons, bots, Stellar, CrossFi, Cartesi, and experiments |
+
+</details>
 
 ---
 
-*This README is maintained in [sam-thetutor/sam-thetutor](https://github.com/sam-thetutor/sam-thetutor) — the special repo that powers my GitHub profile.*
+### 📊 GitHub pulse
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sam-thetutor&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true&count_private=true" alt="stats"/>
+&nbsp;
+<img height="170" src="https://github-readme-streak-stats.demolab.com/?user=sam-thetutor&theme=react&hide_border=true&background=0d1117&ring=58a6ff&fire=522785&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9" alt="streak"/>
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-thetutor&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sam-thetutor&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=522785&point=ffffff&area=true&area_color=29ABE2" width="100%" alt="activity graph"/>
+
+</div>
+
+---
+
+### 🐍 Contribution snake
+
+<div align="center">
+
+<!-- Generated by .github/workflows/snake.yml → output branch -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sam-thetutor/sam-thetutor/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sam-thetutor/sam-thetutor/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sam-thetutor/sam-thetutor/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=0:522785,100:29ABE2&height=100&section=footer&fontSize=14&fontColor=fff&animation=fadeIn" width="100%" alt="footer"/>
+
+**Open to collabs** on ICP canisters · GoodDollar agent infra · Bitcoin inheritance UX · agent × chain tooling
+
+<br/>
+
+<sub>Profile README · <a href="https://github.com/sam-thetutor/sam-thetutor">sam-thetutor/sam-thetutor</a></sub>
+
+</div>
